@@ -1,10 +1,10 @@
 {
     "version": 3,
-    "mappings": "ACEA,AAAA,MAAM,CAAC;EACH,KAAK,EAAE,GAAG;CACb;;AAFD,AAAA,MAAM,CAAC;EACH,KAAK,EAAE,GAAG;CACb",
+    "mappings": "",
     "sources": [
         "../sass/main.scss",
         "../sass/layout/_products.scss",
-        "../sass/layout/_products.scss"
+        "../sass/layout/_base.scss"
     ],
     "names": [],
     "file": "main.css"
