@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "ACEA,AAAA,MAAM,AAAC,CACH,KAAK,CAAE,GAAG,CACb,AAFD,AAAA,MAAM,AAAC,CACH,KAAK,CAAE,GAAG,CACb",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/layout/_products.scss",
+        "../sass/layout/_products.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
